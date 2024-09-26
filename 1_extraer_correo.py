@@ -289,7 +289,7 @@ def main():
             # Imprime el progreso
             # Se imprime el progreso para que se pueda ver c mo va la extracci n
             # de correos
-            print(f"Email {i+1}/{total_mensajes_en_servidor} extraido y insertado en MongoDB")
+            print(f"Email {i+1}/{total_mensajes_en_servidor} extraido e insertado en MongoDB")
 
 if __name__ == "__main__":
     main()
